@@ -47,12 +47,10 @@ T2VA 使用固定 VBench 提示词子集。参考生成包含以下8组用例：
 
 | 配置项 | 当前要求 |
 | --- | --- |
-| 已验证镜像 | `m.daocloud.io/docker.io/vllm/vllm-omni:v0.28.0` |
-| 容器名称 | `minimax-h3` |
+| 已验证镜像 | `vllm/vllm-omni:v0.28.0` |
 | 容器内工具 | `ffmpeg`、`ffprobe` |
 | 服务地址 | `http://127.0.0.1:8000` |
 | API 模型标识 | `/models` |
-| 服务配置检查 | TP8、DLO resident 50、`NCCL_P2P_LEVEL=SYS`，使用组合模型 |
 | 目录挂载 | 本仓库 `out` 目录须读写挂载到容器 `/out` |
 
 脚本在推理服务器本地调用 Docker，迁移时须适配容器名与挂载。脚本不会部署、停止或重启服务。
