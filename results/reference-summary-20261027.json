@@ -1,0 +1,74 @@
+{
+  "FL-01": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 381.79141666666663,
+    "median_e2e_seconds": 382.000164,
+    "system_used_peak_bytes": 435155877888,
+    "system_available_min_bytes": 105514229760
+  },
+  "FL-02": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 397.520759,
+    "median_e2e_seconds": 397.434984,
+    "system_used_peak_bytes": 434724241408,
+    "system_available_min_bytes": 105945866240
+  },
+  "REF-01": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 745.9661643333334,
+    "median_e2e_seconds": 746.076218,
+    "system_used_peak_bytes": 435701223424,
+    "system_available_min_bytes": 104968884224
+  },
+  "REF-02": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 1123.204145,
+    "median_e2e_seconds": 1123.13869,
+    "system_used_peak_bytes": 438018121728,
+    "system_available_min_bytes": 102651985920
+  },
+  "REF-03": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 3641.637613,
+    "median_e2e_seconds": 3635.716133,
+    "system_used_peak_bytes": 463257395200,
+    "system_available_min_bytes": 77412712448
+  },
+  "REF-04": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 601.7179963333333,
+    "median_e2e_seconds": 600.83206,
+    "system_used_peak_bytes": 434963419136,
+    "system_available_min_bytes": 105706688512
+  },
+  "REF-05": {
+    "functional_success": false,
+    "measured_n": 0,
+    "successful_n": 0,
+    "mean_e2e_seconds": null,
+    "median_e2e_seconds": null,
+    "system_used_peak_bytes": 442520981504,
+    "system_available_min_bytes": 98149126144
+  },
+  "REF-06": {
+    "functional_success": true,
+    "measured_n": 3,
+    "successful_n": 3,
+    "mean_e2e_seconds": 3849.2541486666664,
+    "median_e2e_seconds": 3914.729149,
+    "system_used_peak_bytes": 462029357056,
+    "system_available_min_bytes": 78640750592
+  }
+}

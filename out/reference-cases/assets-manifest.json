@@ -1,0 +1,256 @@
+[
+  {
+    "file": "assets/coffee.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/NKZFbIxuTosdvfxgQTAc7rwrnFh.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "5.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 137176,
+    "sha256": "0e921ad0695ed78a4afe15d2a37838e30fc828d27ff7f1a6d509bacc8eb91b0a",
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/dunes.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/ICQBbJmYBoCWo0xNCrUcxshonjc.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "5.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 207340,
+    "sha256": "e6b1906956aca7599e6a68985f121cbbe942121fb3c32d8ef15256a88a8e31cd",
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/dog-up.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/VRaPb9ETYoQeKKxia03c3moOnae.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "2.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 146735,
+    "sha256": "217c427809936d491b76a2e1c8e36581514e48f5a9985146671f1092e6fd10fd",
+    "width": 1600,
+    "height": 1200,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/dog-down.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/DZmTb7d9VoxZ7uxjIUccYxWpn1f.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "2.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 153269,
+    "sha256": "c3fcfe2ec747d916fea54e639e6337d7fad892556a48b9491b0311610a71fe67",
+    "width": 1600,
+    "height": 1200,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/dog-right.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/RpWpb4QN2o2WO3xiFG7coxmdnRc.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "2.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 151070,
+    "sha256": "8ed081dd8aca8f90b51dcf91a3d0cdc82b4614b46bd451b16d7d8267cc3d3ab3",
+    "width": 1600,
+    "height": 1200,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/dog-left.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/EUebblFb1oY6g5x0baUci58nnVP.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "2.3",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 160802,
+    "sha256": "c3a11290f621617192c9d6c1b23d895a8abb4221388ad932fa9aec5feaf7c883",
+    "width": 1600,
+    "height": 1200,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/kitchen-person.jpg",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/atlas/Km7FbJNLOofRfPxgspZcW5IpnHh.jpg",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "3.1",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 148678,
+    "sha256": "f402da661ee6ef8b5a7ef346caad13ef93e34a17993e23bd16015ea23dbda4ff",
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "file": "assets/kitchen-motion.mp4",
+    "modality": "video",
+    "url": "https://static.atlascloud.ai/model/example/minimax-h3/Zh4Nbsou8oWuiExSLCFcenfzn8g.mp4",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "3.1",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 1932598,
+    "sha256": "d7e2afff68d337869d960cb0cae7c6a8e82ec6185d899ab7aa0fd61106680687",
+    "duration_seconds": 14.905011,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "frames": 447,
+        "fps": "30/1",
+        "sample_rate": null
+      },
+      {
+        "type": "audio",
+        "codec": "aac",
+        "width": null,
+        "height": null,
+        "frames": 643,
+        "fps": null,
+        "sample_rate": 44100
+      }
+    ]
+  },
+  {
+    "file": "assets/singer.png",
+    "modality": "image",
+    "url": "https://minimaxh3.studio/prompt-library/references/kie/1785486395775_1niKJiZS.png",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "3.2",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 2435198,
+    "sha256": "69cd9b09f8f90a0d94683ca37b07e4b0760f4c69c2cb664d2443ca8a8f6ed930",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "file": "assets/camera-motion.mp4",
+    "modality": "video",
+    "url": "https://static.aiquickdraw.com/tools/example/1785486410642_xlRUsi7z.mp4",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "3.2",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 1229463,
+    "sha256": "f2550735f24c0daef2ac448add9d71a3313af9d755ff54fef04a08ef36c04230",
+    "duration_seconds": 6.222993,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264",
+        "width": 914,
+        "height": 480,
+        "frames": 186,
+        "fps": "5580/187",
+        "sample_rate": null
+      },
+      {
+        "type": "audio",
+        "codec": "aac",
+        "width": null,
+        "height": null,
+        "frames": 269,
+        "fps": null,
+        "sample_rate": 44100
+      }
+    ]
+  },
+  {
+    "file": "assets/singing.mp3",
+    "modality": "audio",
+    "url": "https://static.aiquickdraw.com/tools/example/1785499207880_SwzpjqmX.mp3",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "3.2",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 410550,
+    "sha256": "441ddf8ec4a0d261535082b1cf5c0df8c4f312d3b4bb2f178d558daaa25687b7",
+    "duration_seconds": 14.942041,
+    "streams": [
+      {
+        "type": "audio",
+        "codec": "mp3float",
+        "width": null,
+        "height": null,
+        "frames": 0,
+        "fps": null,
+        "sample_rate": 44100
+      }
+    ]
+  },
+  {
+    "file": "assets/greenscreen.mp4",
+    "modality": "video",
+    "url": "https://static.atlascloud.ai/model/example/minimax-h3/E6V3b0eRTorGUGx3eKUczimKnGa.mp4",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "5.1",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 594510,
+    "sha256": "b73c8a5ff0ab06432054aefb7d44e38ac0f0d87f628a44b4b937003bddba8db1",
+    "duration_seconds": 10.041667,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "frames": 241,
+        "fps": "24/1",
+        "sample_rate": null
+      }
+    ]
+  },
+  {
+    "file": "assets/fairytale.mp4",
+    "modality": "video",
+    "url": "https://static.atlascloud.ai/model/example/minimax-h3/LhoEbMXc6oaSq0xOCaxclKE6nXc.mp4",
+    "source_page": "https://minimaxh3.studio/zh/guide/minimax-h3",
+    "section": "5.1",
+    "role": "reference_input_not_example_output",
+    "status": "downloaded",
+    "bytes": 739747,
+    "sha256": "d522ca267bdf60a4dbcea194f4b53f7780f8802002085df9e0c8d547c2b8abaf",
+    "duration_seconds": 4.967007,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "frames": 149,
+        "fps": "30/1",
+        "sample_rate": null
+      },
+      {
+        "type": "audio",
+        "codec": "aac",
+        "width": null,
+        "height": null,
+        "frames": 215,
+        "fps": null,
+        "sample_rate": 44100
+      }
+    ]
+  }
+]

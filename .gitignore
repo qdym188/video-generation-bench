@@ -1,0 +1,12 @@
+out/*
+!out/reference-cases/
+out/reference-cases/*
+!out/reference-cases/cases.json
+!out/reference-cases/assets-manifest.json
+!out/reference-cases/prepare_cases.py
+*.mp4
+*.mp3
+*.tar.gz
+*.log
+__pycache__/
+.env
